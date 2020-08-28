@@ -6,11 +6,16 @@
 </p>
 
 
+
+
 - 👩🏻‍🎓Análise e desenvolvimento de sistemas - UNIP
 
-- 💗Apaixonada por DevOps
+- 💞Apaixonada por DevOps
 
 - 📍São Paulo/SP - Brasil
+
+
+
 
 ###  "stay hungry, stay foolish" 
 
@@ -21,6 +26,10 @@
 
 
 Sou apaixonada por cada experiência e aprendizado que vivencio, e me estou sempre aberta a novos desafios e pronta para enfrentar mudanças incríveis 🌍
+
+
+
+
 
 ### :octocat: Github status:
 
