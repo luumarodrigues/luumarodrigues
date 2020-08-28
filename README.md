@@ -1,7 +1,10 @@
-# Bem-vindo ao meu perfil! 👋
+### Luma Rodrigues
+<p align="left">
+<a href="https://medium.com/@luma.rodriguess90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="luumarodrigues" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/luma-rodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luma-rodrigues" height="20" width="20" /></a>
+<a href="https://www.instagram.com/luumarodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luumarodrigues" height="20" width="20" /></a>
+</p>
 
-
-### Olá mundo! Meu nome é Luma.
 
 - 👩🏻‍🎓Análise e desenvolvimento de sistemas - UNIP
 
@@ -9,6 +12,7 @@
 
 - 📍São Paulo/SP - Brasil
 
+###  "stay hungry, stay foolish" 
 
 ✨💻 Atualmete trabalho na @NeonPagamentos, atuo no time de engenharia, dando suporte aos times de desenvolvimento em ambiente PAAS, realizando criação de novos repositórios, configuração de pipelines (pipeline as code), criação de segredos(Hashicorp Vault), instalação e configuração do Kafka com ansible e sempre estudando definições e aplicação de novas ferramentas.
 
@@ -17,14 +21,6 @@
 
 
 Sou apaixonada por cada experiência e aprendizado que vivencio, e me estou sempre aberta a novos desafios e pronta para enfrentar mudanças incríveis 🌍
-
-###  "stay hungry, stay foolish" 
-
-<p align="left">
-<a href="https://medium.com/@luma.rodriguess90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="luumarodrigues" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/luma-rodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="luma-rodrigues" height="20" width="20" /></a>
-<a href="https://www.instagram.com/luumarodrigues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="luumarodrigues" height="20" width="20" /></a>
-</p>
 
 ### :octocat: Github status:
 
