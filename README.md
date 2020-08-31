@@ -19,8 +19,7 @@
 
 ###  "stay hungry, stay foolish" 
 
-✨💻 Atualmete trabalho na @NeonPagamentos, atuo no time de engenharia, dando suporte aos times de desenvolvimento em ambiente PAAS, realizando criação de novos repositórios, configuração de pipelines (pipeline as code), criação de segredos(Hashicorp Vault), instalação e configuração do Kafka com ansible e sempre estudando definições e aplicação de novas ferramentas.
-
+✨💻 Faço parte do time de engenharia da @NeonPagamentos
 
 📚 Estou estudando desenvolvimento de software para me aperfeiçoar e alcançar o meu objetivo, que é me tornar Dev backend .NET, mas claro, sem deixar de lado as práticas DevOps
 
