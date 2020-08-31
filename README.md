@@ -38,7 +38,7 @@ Sou apaixonada por cada experiência e aprendizado que vivencio, e me estou semp
    <img  src="https://komarev.com/ghpvc/?username=luumarodrigues&color=blue" alt="Github Stats" />
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luumarodrigues)](https://github.com/luumarodrigues/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luumarodrigues&count_private=true&show_icons=true&theme=dark)](https://github.com/luumarodrigues/github-readme-stats)
 
   
 
