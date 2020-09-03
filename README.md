@@ -28,6 +28,7 @@ Sou apaixonada por cada experiência e aprendizado que vivencio, e me estou semp
 
 
 
+<!--
 
 
 ### :octocat: Github status:
@@ -40,6 +41,7 @@ Sou apaixonada por cada experiência e aprendizado que vivencio, e me estou semp
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luumarodrigues&count_private=true&show_icons=true)](https://github.com/luumarodrigues/github-readme-stats)
 
+-->
   
 
 <!--
