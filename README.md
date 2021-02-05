@@ -21,8 +21,6 @@
 
 <!--✨💻 Faço parte do time de engenharia da @NeonPagamentos -->
 
-📚 Estou estudando desenvolvimento de software para me aperfeiçoar e alcançar o meu objetivo, que é me tornar Desenvolvedora, mas claro, sem deixar de lado as práticas DevOps
-
 
 Sou apaixonada por cada experiência e aprendizado que vivencio, e estou sempre pronta para enfrentar e realizar mudanças incríveis 🌍
 
