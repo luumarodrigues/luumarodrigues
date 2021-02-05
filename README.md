@@ -19,7 +19,7 @@
 
 ###  "stay hungry, stay foolish" 
 
-✨💻 Faço parte do time de engenharia da @NeonPagamentos
+<!--✨💻 Faço parte do time de engenharia da @NeonPagamentos -->
 
 📚 Estou estudando desenvolvimento de software para me aperfeiçoar e alcançar o meu objetivo, que é me tornar Desenvolvedora, mas claro, sem deixar de lado as práticas DevOps
 
