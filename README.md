@@ -10,8 +10,6 @@
 
 - 👩🏻‍🎓Análise e desenvolvimento de sistemas - UNIP
 
-- 💞Apaixonada por DevOps
-
 - 📍São Paulo/SP - Brasil
 
 
