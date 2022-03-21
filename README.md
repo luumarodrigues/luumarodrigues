@@ -8,7 +8,7 @@
 
 
 
-- 👩🏻‍🎓Análise e desenvolvimento de sistemas - UNIP
+- 👩🏻‍🎓Formada em análise e desenvolvimento de sistemas
 
 - 📍São Paulo/SP - Brasil
 
