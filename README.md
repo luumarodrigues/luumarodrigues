@@ -8,7 +8,7 @@
 
 
 
-- 👩🏻‍🎓Formada em análise e desenvolvimento de sistemas
+- 👩🏻‍🎓Análise e desenvolvimento de sistemas
 
 - 📍São Paulo/SP - Brasil
 
@@ -17,10 +17,10 @@
 
 ###  "stay hungry, stay foolish" 
 
-<!--✨💻 Faço parte do time de engenharia da @NeonPagamentos -->
+<!--✨💻 Faço parte do time de engenharia da @ -->
 
 
-Sou apaixonada por cada experiência e aprendizado que vivencio, e estou sempre pronta para enfrentar e realizar mudanças incríveis 🌍
+<!-- Sou apaixonada por cada experiência e aprendizado que vivencio, e estou sempre pronta para enfrentar e realizar mudanças incríveis 🌍-->
 
 
 
