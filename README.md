@@ -8,7 +8,7 @@
 
 
 
-- 👩🏻‍🎓Análise e desenvolvimento de sistemas
+- DevOps
 
 - 📍São Paulo/SP - Brasil
 
