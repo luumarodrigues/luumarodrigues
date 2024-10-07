@@ -14,19 +14,6 @@
 
 
 
-
-###  "stay hungry, stay foolish" 
-
-<!--✨💻 Faço parte do time de engenharia da @ -->
-
-
-<!-- Sou apaixonada por cada experiência e aprendizado que vivencio, e estou sempre pronta para enfrentar e realizar mudanças incríveis 🌍-->
-
-
-
-<!--
-
-
 ### :octocat: Github status:
 
   <p >   
